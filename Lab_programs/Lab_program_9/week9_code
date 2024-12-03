@@ -67,7 +67,7 @@ err.setText("B should be NON zero!");
 jfrm.setVisible(true);
 }
 public static void main(String args[]){
-System.out.println("Ruqaiyya Mahreen 1BM23EE044");
+System.out.println("Ritesh Mohan Nayak 1BM23EC212");
 // create frame on event dispatching thread
 SwingUtilities.invokeLater(new Runnable(){
 public void run(){
